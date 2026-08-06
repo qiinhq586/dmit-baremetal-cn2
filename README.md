@@ -1,0 +1,1 @@
+# dmit-baremetal-cn2
